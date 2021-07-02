@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: dumux-test
+Version: 1
+Maintainer: 1
+# Required build dependencies
+Depends: dune-common dune-geometry dune-grid dune-alugrid dune-istl dune-localfunctions dune-foamgrid
+# Optional build dependencies
+#Suggests:
